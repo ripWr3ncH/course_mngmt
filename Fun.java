@@ -8,7 +8,10 @@ interface ccom{
 class lesson implements ccom{
 	String t;
 	String l;
+
 	String nn;
+
+	String mm;
 
     public lesson(String t, String l) {
 this.t = t;
